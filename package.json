@@ -1,0 +1,18 @@
+{
+  "name": "callstats-js",
+  "version": "3.64.3",
+  "description": "callstats javascript library",
+  "main": "callstats.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "callstats",
+    "webRTC",
+    "Analytics"
+  ],
+  "author": "Karthik Budigere <karthik@callstats.io> (http://callstats.io)",
+  "license": "SEE LICENSE IN license.txt",
+  "dependencies": {
+  }
+}
