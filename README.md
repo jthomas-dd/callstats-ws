@@ -4,7 +4,7 @@
 
 ### 1. Add the dependencies
 ```javascript
-import callstats from 'callstats-js/callstats.min';
+import callstats from 'callstats-js/callstats-ws.min';
 ```
 ### 2. Integrate callstats API - https://www.callstats.io/api/
 

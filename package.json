@@ -2,7 +2,7 @@
   "name": "callstats-js",
   "version": "3.64.3",
   "description": "callstats javascript library",
-  "main": "callstats.min.js",
+  "main": "callstats-ws.min.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
